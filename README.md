@@ -13,11 +13,15 @@ A pretty README template. Add a paragraph of project description here.
 
 ## Contributing
 
+Please read [CONTRIBUTING.md]() for details on our code of conduct first.
+
 ## Contributors
 
 * **John Doe**
 
 ## FAQ
+- **How can I use this pretty README template?**
+    - Click the "Raw" button to retrieve the raw code.
 
 ## Support
 
