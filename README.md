@@ -20,14 +20,17 @@ A pretty README template. Add a paragraph of project description here.
 Use Getting Started or a Table of Contents depending on the volume of the content.
 
 ### Key Features
-- list any features of this project
+- A list of key features goes here
 
 ### Prerequisites
--  Required prerequisites in using this project
+-  A list of required prerequisites goes here
 
 ### Installation
+A step-by-step guide on using this repository. 
 
-## Built With
+```
+Commands goes here
+```
 
 ## Contributing
 
@@ -35,7 +38,7 @@ Please read [CONTRIBUTING.md]() for details on our code of conduct first.
 
 ## Contributors
 
-* **John Doe**
+* **John Doe** - [github](https://github.com/wag0325)
 
 ## FAQ
 - **How can I use this pretty README template?**
