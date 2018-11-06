@@ -8,7 +8,6 @@ A pretty README template. Add a paragraph of project description here.
     - [Key Features](#key-features)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-- [Features](#features)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 - [FAQ](#faq)
